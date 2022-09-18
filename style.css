@@ -1,0 +1,280 @@
+html {
+    font-family: 'Abel', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+.main {
+    width: 1600px;
+    height: 2929px;
+    border: 1px solid black;
+}
+#old {
+    color: #2196F3;
+    text-decoration: none;
+}
+.dad {
+    display: flex;
+    margin-left: 200px;
+    font-size: 30px;
+}
+.dad:hover {
+    text-decoration: underline #2196F3;
+}
+.class {
+    display: flex;
+    margin-top: -52px;
+    margin-left: 400px;
+}
+.class li {
+    color: white;
+    margin-left: 50px;
+}
+.class li a {
+    color: #212121;
+    
+}
+#class a{
+    color: #2196F3;
+}
+.class li a:hover {
+    text-decoration: underline #2196F3;
+}
+#class:hover {
+    text-decoration: underline #2196F3;
+}
+.hourse {
+    margin-left: 5px;
+}
+.first {
+    display: flex;
+}
+.first li{
+    color:white;
+}
+.first a {
+    color: #2196F3;
+}
+.first a:hover {
+    text-decoration: underline #2196F3;
+}
+.second {
+    display: flex;
+}
+.lizard {
+    color: white;
+}
+.lizard p {
+    color: #212121;
+}
+.second p {
+    margin-top: -20px;
+    margin-left: 15px;
+}
+.second p:hover {
+    text-decoration: underline #2196F3;
+}
+#first {
+    display: flex;
+    margin-left: 1000px;
+    margin-top: -48px;
+}
+h1 {
+    margin-top: -100px;
+}
+.third {
+    color: white;
+    margin-top: -300px;
+}
+.third h1 {
+    display: flex;
+    justify-content: center;
+}
+.third div {
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    border: 1px solid #2196F3;
+    border-radius: 10px;
+    background-color: #2196F3;
+}
+.third div a {
+    color: white;
+    text-decoration: none;
+}
+.third a:hover {
+    text-decoration: underline #2196F3;
+}
+.fourth {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+}
+#elephant {
+    width: 270px;
+    height: 240px;
+}
+#fifth {
+    width: 270px;
+    height: 240px;
+    margin: 0 50px 0 50px;
+}
+.fifth {
+    width: 270px;
+    height: 120px;
+    background-color: #F5F4FA;
+    border: 1px solid #F5F4FA;
+}
+.fifth img {
+    padding-left: 90px;
+    padding-top: 30px;
+}
+#elephant h5 {
+    color: #212121;
+}
+.div {
+    width: 270px;
+    height: 75px;
+}
+.lion {
+    width: 270px;
+    height: 120px;
+    background-color: #F5F4FA;
+    border: 1px solid #F5F4FA;
+}
+.lion img {
+    padding-left: 90px;
+    padding-top: 30px;
+}
+.sixth {
+    width: 270px;
+    height: 240px;
+    margin-right: 50px;
+}
+#panther {
+    width: 270px;
+    height: 120px;
+    background-color: #F5F4FA;
+    border: 1px solid #F5F4FA;
+}
+#panther img {
+    padding-left: 90px;
+    padding-top: 30px;
+}
+#tiger {
+    width: 270px;
+    height: 120px;
+    background-color: #F5F4FA;
+    border: 1px solid #F5F4FA;
+}
+#tiger img {
+    padding-left: 90px;
+    padding-top: 30px;
+}
+.span h1 {
+    margin-top: 100px;
+    margin-left: 650px;
+}
+#span {
+    display: flex;
+    justify-content: center;
+}
+.ten {
+    margin-left: 50px;
+    margin-right: 50px
+}
+.seventh {
+    width: 1600px;
+    height: 708px;
+    border: 1px solid #F5F4FA;
+    background-color: #F5F4FA;
+    margin-top: 100px;
+}
+.seventh h1 {
+    margin-top: 100px;
+    margin-left: 680px;
+}
+#seventh {
+    display: flex;
+    justify-content: center;
+}
+#eight {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.nineth {
+    margin-right: 50px;
+}
+#seventh h5 {
+    margin-left: 20px;
+}
+#seventh p {
+    margin-left: 20px;
+}
+.math {
+    display: flex;
+}
+.geography {
+    background-color: #2196F3;
+}
+.eight p {
+    margin-left: 20px;
+}
+.eight h5 {
+    margin-left: 20px;
+}
+.math {
+    margin-left: 20px;
+}
+.German {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.English {
+    margin-right: 10px;
+}
+.tenth {
+    margin-top: 200px;
+}
+.tenth h1 {
+    margin-left: 650px;
+}
+#tenth {
+    justify-content: center;
+}
+#eleven {
+    width: 170px;
+    height: 90px;
+    border: 1px solid #AFB1B8;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#eleven img {
+    margin-left: 65px;
+    margin-top: 20px;
+}
+#tenth {
+    display: flex;
+}
+footer div {
+    margin-top: 125px;
+    width: 1600px;
+    height: 252px;
+    border: 1px solid #2F303A;
+    background-color: #2F303A;
+}
+#young2 {
+    color: white;
+}
+#twelf {
+    margin-left: 150px;
+}
+#twelf li {
+    color: #2F303A;
+}
+#twelf p {
+    color: white;
+}
+#twelf p:hover {
+    text-decoration: underline #2196F3;
+}
